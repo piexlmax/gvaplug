@@ -1,4 +1,4 @@
-package plugtest
+package gvaplug
 
 import "fmt"
 
