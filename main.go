@@ -16,6 +16,7 @@ type GvaModel struct {
 	Test string `json:"test" form:"test" gorm:"comment:'GvaModel测试字段'"`
 }
 
+
 type GvaPlug struct {
 }
 
